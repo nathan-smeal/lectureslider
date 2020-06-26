@@ -3,8 +3,10 @@
 
 input_srt = './inputs/229 - Overview of Lectures on Graph Algorithms - lang_en_vs1.srt'
 input_vid = './inputs/1 - Overview of Lectures on Graph Algorithms.mp4'
-input_dir_srt = r"C:\Users\smeal\Downloads\GR1_ Strongly Connected Components Subtitles"
-input_dir_vid = r"C:\Users\smeal\Downloads\GR1_ Strongly Connected Components Videos"
+input_dir_srt = './inputs_subs'
+# input_dir_srt = r"C:\Users\smeal\Downloads\GR1_ Strongly Connected Components Subtitles"
+input_dir_vid = './inputs_vids'
+# input_dir_vid = r"C:\Users\smeal\Downloads\GR1_ Strongly Connected Components Videos"
 
 
 import cv2
